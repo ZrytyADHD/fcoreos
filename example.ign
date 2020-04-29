@@ -1,0 +1,27 @@
+{
+  "ignition": {
+    "config": {
+      "replace": {
+        "source": null,
+        "verification": {}
+      }
+    },
+    "security": {
+      "tls": {}
+    },
+    "timeouts": {},
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa MIIEpQIBAAKCAQEA4q0EjzLKQfJxondxs+8VpQx6yi6MtgAujKakUrK1OYnH50b0FAleyl6NkjzfTzD+7XJ5/+i7vlL4pbqPGvNgfJlAMcnmYzKiyMo9Fu67lo8xcdroG22oNoIEDJB2BvekUipsICDVRWBn3f8AmIHRG9xe/3nsImoPrzkkJjVU+/2TBWXV1C9IAeuspW1CR/UxoTVTeJeDjJBpzHZ+HwyNkm9YbYpr27u76uomzsbeX9djzvjt9DJN8TYqDmOX5X1r2SaHJ5nnP6lNzu5r5M49836pKZJpgZ+xC+/B2VMqpY4DCbZJBsEBSCOS9726Zqtr4ZSrVVdSNbt6IrHniE6CMwIDAQABAoIBAQCDzzIwhss/79gOLkCq7eL7N7eLK+hcyNxIo3o4MHzbOXhJz2OM5yn8qWDPYaBE72u97Wxt2AqcEKlPzZz7gfxgV8kRaqMSmdY4xgkh9a6VTSzmVPHVST2gfJgYKkTHpmch9FMtl4oMrpOXbnoNNKfA+LMxAdfC50O5k5OmuCpz4JbOesPuT9J58LQcDBhpdKVBy4fq6D3eWUZfW+g+Teq0i1844StvmZt5PKg+fIZ22m6q2zCvli009qVWigqtVx2LRP7iFdCqcL2CzkxyFScO1IYrSRfY/PXIUUDAmryaWy+kKoCVVdndd2TflKlP4BDq8EaeSUpHJONVlmO8gbURAoGBAPYIS1AT59/+0zRKSri0iJoIB7/BhavO7WNUBXLiDvGrt5KN6xoSAmDoetntEwvTLMeMQzHzTfcHBTfRExF9kWyuAIEXTY+Qjb8uK35k6O0SvNealKzWjruG9hkqZNxuDmaDfXwzhDpCX22YxaisR2u8X6eJOtcNttxr9/oI31cbAoGBAOvb9/wS65CnroAFvV/XtTsx9sUv5cpXisv/F+ytt5kvKpddtxxrHQs2Zqo91Cr72YW9yJSLw+iQdXal+n+SVM/TxPlQK8HagdUgD4vzfpVIeq+rcDXTaczuFAE4zkgOX/p3mn0dkjeGvDJiEaaGg9YnXLSKI3oct8wivyiWFTrJAoGAaMIVV05yf9TgFza+5DCyrWtX6VU8VnBwcce33jfVByAHtRZKkbozWxICJUKlxnYvbfQSNHWVr+ZEWYTjaqIdxrm8KztB4iw5vrqo+FN9PlypHeCLB6D/+2c26HY9pgISjaHVT4ob9jaGrYLMPsrESmJWFF8BN8p2Hxq15rfaaRsCgYEAjWrr6sFxat+PmoVWgeP1b1PK8XqBnmwU9bGzJ58VSYzlTbLMOwbieDmbHxJJZ6hwSWd8n8yZn5UWSRjF9L3Jin8gSJhQVEBuvlol2DUcPegiX7g8ZJmpg01wwzbLQJsV4zjZcZFMfWyU5OS2TpGy9LHPPRTiprIXZhejZHNwsTkCgYEA1jBOY6cTu8iRnwuX/WRcmsui7sjiVgqxnPmbjDUeIKL3uJKA497uV3/PDkXg3vdafNzKHPCerfEk6qwihb7ojCZGw4LO4EWhEuSIH0v56fLu8mLNX6H0ICsSDMSeHgBQKACwjDCnVC4TRZLeN5vZWg9I2wkV/rBSeTJ/OAKUAug="
+        ]
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
